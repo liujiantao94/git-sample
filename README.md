@@ -1,2 +1,2 @@
 # git-sample
-test
+this is a sample readme
